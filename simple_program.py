@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+print('enter the first number: '+str(a))
+print('enter the second numer:'+str(b))
+print('additon: '+str(a+b))
+print("substract: "+str(a-b))
+print("multiplication: "+str(a*b))
+print("divison: "+str(a/b))
